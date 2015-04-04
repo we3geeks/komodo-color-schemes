@@ -13,4 +13,4 @@ Solaron is a pair of schemes based on [Ethan Schoonover's Solarized palette](htt
 All of these schemes are configured to use [David Jonothan Ross's Input Mono](http://input.fontbureau.com/) typeface. If you don't have that face installed, you will almost certainly want to tweak any of these schemes to use your preferred typeface.
 
 ### Installation
-Installing color schemes in Komodo is a matter of downloading the `.ksf` files and moving them into the `./schemes/` folder within your Komodo profile folder and then restarting Komodo. See [this post](http://forum.komodoide.com/t/important-file-locations/489) from the Komodo forums for the location of Komodo profile folders on various operating systems.
+Installing color schemes in Komodo is as simple as downloading the `.ksf` file, then dragging and dropping it on the running Komodo program. Alternatively, download the `.ksf` file and move it into the `./schemes/` folder within your Komodo profile folder, then restart Komodo. See [this post](http://forum.komodoide.com/t/important-file-locations/489) from the Komodo forums for the location of Komodo profile folders on various operating systems.
