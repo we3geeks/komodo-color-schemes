@@ -113,7 +113,7 @@ Colors = {'bookmarkColor': 8819237,
  'foldMarginColor': 13427690,
  'selBack': 3287050,
  'selFore': 13427690,
- 'whitespaceColor': 9474177}
+ 'whitespaceColor': 12305600}
 
 Indicators = {'collab_local_change': {'alpha': 30,
                          'color': 10066329,
