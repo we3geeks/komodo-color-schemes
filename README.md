@@ -8,6 +8,13 @@ Solaron is a pair of schemes based on [Ethan Schoonover's Solarized palette](htt
 
 ![Preview of Solaron-Dark color scheme for Komodo](./_i/ke-solarondark-20150404.png)
 
+## Minimal-Light and -Dark
+Minimal is not a pair of schemes I would ever use for "real work". I have found that when I start working on a new color scheme I like to have a clean slate where I know there aren't odd colors left hanging around in corners of the scheme (which can easily happen if I start with an existing theme). Minimal is my clean slate...
+
+![Preview of Minimal-Light color scheme for Komodo](./_i/ke-minimallight-20150407.png)
+
+![Preview of Minimal-Dark color scheme for Komodo](./_i/ke-minimaldark-20150407.png)
+
 ## Additional Notes
 ### Typefaces
 All of these schemes are configured to use [David Jonothan Ross's Input Mono](http://input.fontbureau.com/) typeface. If you don't have that face installed, you will almost certainly want to tweak any of these schemes to use your preferred typeface.
