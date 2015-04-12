@@ -8,6 +8,15 @@ Solaron is a pair of schemes based on [Ethan Schoonover's Solarized palette](htt
 
 ![Preview of Solaron-Dark color scheme for Komodo](./_i/ke-solarondark-20150404.png)
 
+## Base16r-Default-Dark, -Ocean-Dark, and -Tomorrow-Dark
+Base16r is a set of schemes based on some of [Chris Kempson's Base16 palettes](https://github.com/chriskempson/base16). As with Solaron, above, these stay true in most areas to their respective palettes, but I have intentionally tweaked each of them in a few areas for consistency and/or different levels of contrast.
+
+![Preview of Base16r-Default-Dark color scheme for Komodo](./_i/ke-base16rdefaultdark-20150412.png)
+
+![Preview of Base16r-Ocean-Dark color scheme for Komodo](./_i/ke-base16roceandark-20150412.png)
+
+![Preview of Base16r-Tomorrow-Dark color scheme for Komodo](./_i/ke-base16rtomorrowdark-20150412.png)
+
 ## Minimal-Light and -Dark
 Minimal is not a pair of schemes I would ever use for "real work". I have found that when I start working on a new color scheme I like to have a clean slate where I know there aren't odd colors left hanging around in corners of the scheme (which can easily happen if I start with an existing theme). Minimal is my clean slate...
 
