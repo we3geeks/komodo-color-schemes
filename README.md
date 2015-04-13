@@ -9,7 +9,7 @@ Solaron is a pair of schemes based on [Ethan Schoonover's Solarized palette](htt
 ![Preview of Solaron-Dark color scheme for Komodo](./_i/ke-solarondark-20150404.png)
 
 ## Base16r-Default-Dark, -Ocean-Dark, and -Tomorrow-Dark
-Base16r is a set of schemes based on some of [Chris Kempson's Base16 palettes](https://github.com/chriskempson/base16). As with Solaron, above, these stay true in most areas to their respective palettes, but I have intentionally tweaked each of them in a few areas for consistency and/or different levels of contrast.
+Base16r is a set of schemes based on some of [Chris Kempson's Base16 palettes](https://github.com/chriskempson/base16), with the "r" in the name to differentiate these from other Base16-based schemes. As with Solaron, above, these stay true in most areas to their respective palettes, but I have intentionally tweaked each of them in a few areas for consistency with each other and/or for different levels of contrast.
 
 ![Preview of Base16r-Default-Dark color scheme for Komodo](./_i/ke-base16rdefaultdark-20150412.png)
 
