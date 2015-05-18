@@ -30,3 +30,7 @@ All of these schemes are configured to use [David Jonothan Ross's Input Mono](ht
 
 ### Installation
 Installing color schemes in Komodo is as simple as downloading the `.ksf` file, then dragging and dropping it on the running Komodo program. Alternatively, download the `.ksf` file and move it into the `./schemes/` folder within your Komodo profile folder, then restart Komodo. See [this post](http://forum.komodoide.com/t/important-file-locations/489) from the Komodo forums for the location of Komodo profile folders on various operating systems.
+
+## Update History
+
+* 2015-04-29: Tweaks to Solaron and Base16r schemes to color operators subtly differently from default foreground color.
