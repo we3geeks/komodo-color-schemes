@@ -1,4 +1,4 @@
-Version = 13
+Version = 15
 
 Booleans = {'caretLineVisible': True, 'preferFixed': 1, 'useSelFore': False}
 
@@ -16,6 +16,7 @@ CommonStyles = {'attribute name': {},
                    'fore': 16777215,
                    'hotspot': 0,
                    'italic': 0,
+                   'lineSpacing': 1,
                    'size': 11,
                    'useFixed': 1},
  'default_proportional': {'back': 0,
