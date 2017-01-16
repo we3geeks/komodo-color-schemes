@@ -33,6 +33,7 @@ Installing color schemes in Komodo is as simple as downloading the `.ksf` file, 
 
 ## Update History
 
+* 2017-01-15: Started work on updating these schemes for more complete compatibility with Komodo v10, including the user interface. Interim commits -- starting with Solaron-Light -- in the coming weeks will cover all of the schemes.
 * 2016-02-10: Removed the additional line-spacing setting added in previous update (that was just a bad idea for inclusion here).
 * 2015-11-05: Updated internal version based on Komodo v9.3 release; added default line-spacing setting for better appearance.
 * 2015-04-29: Tweaks to Solaron and Base16r schemes to color operators subtly differently from default foreground color.
